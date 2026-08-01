@@ -1,6 +1,6 @@
 # UCT-Micromouse: Visual Simulation & STM32 Hardware Control Testbed
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nicollsf/UCT-Micromouse)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=VincentMukwevo/UCT-Micromouse)
 
 This repository provides a complete, visual desktop simulation testbed and hardware compilation framework for autonomous **Micromouse** robots. Developed at the University of Cape Town (UCT), it supports dual-path programming using **MATLAB/Simulink/Stateflow** or **Python** (MicroPython/PikaScript).
 
